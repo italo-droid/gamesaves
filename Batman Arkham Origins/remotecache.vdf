@@ -1,0 +1,51 @@
+"209000"
+{
+	"profileSP.bin"
+	{
+		"root"		"0"
+		"size"		"81"
+		"localtime"		"1546040398"
+		"time"		"1546040397"
+		"remotetime"		"1546040397"
+		"sha"		"f7dc7306b9db13775a2bc0f292cb8ffbacb2d6c1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SpSave_v2_0.sgd"
+	{
+		"root"		"0"
+		"size"		"294912"
+		"localtime"		"1546283667"
+		"time"		"1546283665"
+		"remotetime"		"1546283665"
+		"sha"		"8bf0da38a167fa5c8f00d0a6f6f74ce67a328b30"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SHARED.SWP"
+	{
+		"root"		"0"
+		"size"		"1024"
+		"localtime"		"1546283667"
+		"time"		"1546283665"
+		"remotetime"		"1546283665"
+		"sha"		"f8636caa8acd687afcd9e0ec987efd4752b3359a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SpSave_v2_1.sgd"
+	{
+		"root"		"0"
+		"size"		"294912"
+		"localtime"		"1546188138"
+		"time"		"1546188137"
+		"remotetime"		"1546188137"
+		"sha"		"2fbc3e3486d9ff739cc50a97a98cc8313aee1a33"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
