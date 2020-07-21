@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigOptions>
+  <FireOnSelect>true</FireOnSelect>
+  <Language>en</Language>
+  <Subtitles>true</Subtitles>
+  <UseLowResAssets>true</UseLowResAssets>
+  <X>1920</X>
+  <Y>1080</Y>
+</ConfigOptions>
