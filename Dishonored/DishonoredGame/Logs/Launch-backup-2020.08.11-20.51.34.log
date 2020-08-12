@@ -1,0 +1,31 @@
+[0317.36] Log: Log file open, 08/11/20 20:32:53
+[0317.36] Log: TRANSITION-LOAD : Upgrade 1 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.DLC06_Upgrd_Squint1]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 2 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.DLC06_Upgrd_ArcStnMine_Chrg]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 3 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.dlc06_Upgrade_SilentRun]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 4 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.dlc06_Upgrade_SilentSprint]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 5 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.dlc06_Upgrade_Wristbow_Range]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 6 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.DLC06_Upgrd_ArcStnMine_Cap]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0317.36] Log: TRANSITION-LOAD : Upgrade 7 of 7 : [DisTweaks_Upgrade DLC06_Twk_Upgrades.DLC06_Upgrd_ArcMine_Capacity]
+[0317.36] Log: TRANSITION-LOAD :: Found matching string in player tweak data
+[0317.36] Log: TRANSITION-LOAD ::: Matching record had a transfer upgrade reference
+[0334.03] Log: FLevelSaver: 393216 bytes
+[0334.03] Log: m_ObjectDictionarySaver: 131072 bytes
+[0334.03] Log: m_ObjectDictionary: 379136 bytes for 6756 items
+[0334.03] Log: m_SavedObjects: 288960 bytes for 5738 items
+[0955.30] Log: FLevelSaver: 393216 bytes
+[0955.30] Log: m_ObjectDictionarySaver: 131072 bytes
+[0955.30] Log: m_ObjectDictionary: 395520 bytes for 8554 items
+[0955.30] Log: m_SavedObjects: 288960 bytes for 6792 items
+[1345.28] Log: Log file closed, 08/11/20 20:50:01
