@@ -1,6 +1,6 @@
 Renderer Device Information:
-	NVIDIA GeForce 930M
-	nvd3dum.dll
+	NVIDIA GeForce GTX 1050
+	nvldumd.dll
 	RenderPath         		: BSSM_SV_2_A
 	PSversion          		: 300
 	VSversion          		: 300
