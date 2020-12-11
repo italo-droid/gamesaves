@@ -1,0 +1,61 @@
+[0012.33] Log: Log file open, 12/08/20 11:46:07
+[0012.33] DevMemory: Virtual  memory allocation size: 325.67 MByte (341492400 Bytes)
+[0012.33] DevMemory: Physical memory allocation size: 333.34 MByte (349532160 Bytes)
+[0026.55] DevMemory: Virtual  memory allocation size: 333.09 MByte (349274128 Bytes)
+[0026.55] DevMemory: Physical memory allocation size: 354.46 MByte (371683328 Bytes)
+[0173.60] DevMemory: Virtual  memory allocation size: 353.71 MByte (370888752 Bytes)
+[0173.60] DevMemory: Physical memory allocation size: 427.88 MByte (448659456 Bytes)
+[2327.56] DevMemory: Virtual  memory allocation size: 361.57 MByte (379128960 Bytes)
+[2327.56] DevMemory: Physical memory allocation size: 528.62 MByte (554299392 Bytes)
+[6649.77] DevMemory: Virtual  memory allocation size: 362.45 MByte (380060792 Bytes)
+[6649.77] DevMemory: Physical memory allocation size: 507.20 MByte (531832832 Bytes)
+[7131.30] DevMemory: Virtual  memory allocation size: 374.62 MByte (392813744 Bytes)
+[7131.30] DevMemory: Physical memory allocation size: 516.38 MByte (541462528 Bytes)
+[7450.41] DevMemory: Virtual  memory allocation size: 363.84 MByte (381516848 Bytes)
+[7450.41] DevMemory: Physical memory allocation size: 504.48 MByte (528986112 Bytes)
+[7689.16] DevMemory: Virtual  memory allocation size: 363.84 MByte (381518560 Bytes)
+[7689.16] DevMemory: Physical memory allocation size: 503.42 MByte (527872000 Bytes)
+[7945.58] DevMemory: Virtual  memory allocation size: 364.05 MByte (381731520 Bytes)
+[7945.58] DevMemory: Physical memory allocation size: 503.39 MByte (527839232 Bytes)
+[8586.82] DevMemory: Virtual  memory allocation size: 383.10 MByte (401710568 Bytes)
+[8586.82] DevMemory: Physical memory allocation size: 534.63 MByte (560594944 Bytes)
+[8684.37] DevMemory: Virtual  memory allocation size: 370.45 MByte (388448408 Bytes)
+[8684.37] DevMemory: Physical memory allocation size: 517.94 MByte (543100928 Bytes)
+[9050.31] DevPhysics: SetApexLODResourceBudget(150000.000000)
+[9051.78] DevPhysics: SetApexLODResourceBudget(100000.000000)
+[9054.99] DevPhysics: SetApexLODResourceBudget(150000.000000)
+[9056.25] DevPhysics: SetApexLODResourceBudget(100000.000000)
+[9082.26] DevMemory: Virtual  memory allocation size: 370.20 MByte (388179304 Bytes)
+[9082.26] DevMemory: Physical memory allocation size: 517.72 MByte (542867456 Bytes)
+[9133.06] DevMemory: Virtual  memory allocation size: 369.99 MByte (387966088 Bytes)
+[9133.06] DevMemory: Physical memory allocation size: 517.75 MByte (542904320 Bytes)
+[9365.26] DevPhysics: SetApexLODResourceBudget(150000.000000)
+[9514.00] DevPhysics: SetApexLODResourceBudget(100000.000000)
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_10.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_11.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_12.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_29.ParticleSystemComponent_9:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_5.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_6.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_7.ParticleSystemComponent_454:ReplacementPrimitive]
+[9551.21] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_8.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_10.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_11.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_12.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_29.ParticleSystemComponent_9:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_5.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_6.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_7.ParticleSystemComponent_454:ReplacementPrimitive]
+[9830.43] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_8.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_10.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_11.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_12.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_29.ParticleSystemComponent_9:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_5.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_6.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_7.ParticleSystemComponent_454:ReplacementPrimitive]
+[10607.10] Log: WARNING: [guid level name:OW_C5_Ch78_Static_LOD] Guid 0003DE2E000000000000000000000000 isn't loaded yet for cross level reference [ParticleSystemComponent OW_C5_Ch789_Static.TheWorld:PersistentLevel.Emitter_8.ParticleSystemComponent_454:ReplacementPrimitive]
+[11232.52] DevMemory: Virtual  memory allocation size: 372.31 MByte (390391976 Bytes)
+[11232.52] DevMemory: Physical memory allocation size: 534.62 MByte (560590848 Bytes)
+[11237.10] Log: Closing by request
+[11239.08] Log: Log file closed, 12/08/20 14:53:14

@@ -1,0 +1,21 @@
+[0011.63] Log: Log file open, 12/06/20 01:11:47
+[0011.63] DevMemory: Virtual  memory allocation size: 325.67 MByte (341492256 Bytes)
+[0011.63] DevMemory: Physical memory allocation size: 333.34 MByte (349532160 Bytes)
+[0024.33] DevMemory: Virtual  memory allocation size: 333.04 MByte (349216176 Bytes)
+[0024.33] DevMemory: Physical memory allocation size: 354.15 MByte (371355648 Bytes)
+[1058.41] DevMemory: Virtual  memory allocation size: 361.23 MByte (378779576 Bytes)
+[1058.41] DevMemory: Physical memory allocation size: 515.78 MByte (540831744 Bytes)
+[4331.14] DevMemory: Virtual  memory allocation size: 375.31 MByte (393537584 Bytes)
+[4331.14] DevMemory: Physical memory allocation size: 532.42 MByte (558280704 Bytes)
+[4415.43] DevMemory: Virtual  memory allocation size: 362.42 MByte (380026544 Bytes)
+[4415.43] DevMemory: Physical memory allocation size: 511.80 MByte (536657920 Bytes)
+[5096.99] DevMemory: Virtual  memory allocation size: 363.37 MByte (381021072 Bytes)
+[5096.99] DevMemory: Physical memory allocation size: 510.54 MByte (535339008 Bytes)
+[5231.03] DevMemory: Virtual  memory allocation size: 362.94 MByte (380572480 Bytes)
+[5231.03] DevMemory: Physical memory allocation size: 509.74 MByte (534499328 Bytes)
+[6550.30] DevMemory: Virtual  memory allocation size: 377.09 MByte (395407080 Bytes)
+[6550.30] DevMemory: Physical memory allocation size: 522.32 MByte (547692544 Bytes)
+[7478.79] DevMemory: Virtual  memory allocation size: 385.13 MByte (403841008 Bytes)
+[7478.79] DevMemory: Physical memory allocation size: 531.79 MByte (557621248 Bytes)
+[7484.61] Log: Closing by request
+[7486.08] Log: Log file closed, 12/06/20 03:16:21
