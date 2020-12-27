@@ -1,0 +1,507 @@
+Initialize engine version: 2018.4.9f1 (ca372476eaba)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   27.21.14.6089
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.095 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.959000 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+switched to KB/mouse!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.702600 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3722.
+Total: 17.611900 ms (FindLiveObjects: 0.543500 ms CreateObjectMapping: 0.268600 ms MarkObjects: 16.551400 ms  DeleteObjects: 0.246900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3722.
+Total: 19.187100 ms (FindLiveObjects: 0.647700 ms CreateObjectMapping: 0.265100 ms MarkObjects: 18.256800 ms  DeleteObjects: 0.015800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.171600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 8104.
+Total: 25.826000 ms (FindLiveObjects: 1.064800 ms CreateObjectMapping: 0.500200 ms MarkObjects: 24.157100 ms  DeleteObjects: 0.102800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 8104.
+Total: 27.760400 ms (FindLiveObjects: 1.307700 ms CreateObjectMapping: 0.543200 ms MarkObjects: 25.878200 ms  DeleteObjects: 0.029800 ms)
+
+status : VALID
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.816100 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 24236.
+Total: 30.580100 ms (FindLiveObjects: 1.538100 ms CreateObjectMapping: 0.660900 ms MarkObjects: 28.247900 ms  DeleteObjects: 0.132500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24244.
+Total: 33.711800 ms (FindLiveObjects: 1.578500 ms CreateObjectMapping: 0.657200 ms MarkObjects: 31.451000 ms  DeleteObjects: 0.024500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 39.749700 ms
+
+Unloading 244 unused Assets to reduce memory usage. Loaded Objects now: 5454.
+Total: 76.241000 ms (FindLiveObjects: 0.723500 ms CreateObjectMapping: 0.480100 ms MarkObjects: 74.424700 ms  DeleteObjects: 0.611200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5454.
+Total: 62.454500 ms (FindLiveObjects: 0.828300 ms CreateObjectMapping: 0.415100 ms MarkObjects: 61.191500 ms  DeleteObjects: 0.018500 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.242100 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24241.
+Total: 45.424900 ms (FindLiveObjects: 1.584400 ms CreateObjectMapping: 0.663000 ms MarkObjects: 43.077000 ms  DeleteObjects: 0.099800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24249.
+Total: 48.945200 ms (FindLiveObjects: 1.340200 ms CreateObjectMapping: 0.430000 ms MarkObjects: 47.141400 ms  DeleteObjects: 0.032900 ms)
+
+SUCCESS Chapter7-GalaFail1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_WRONG_BREW_FIRST_TIME Remaning : 19
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 40.799000 ms
+
+Unloading 309 unused Assets to reduce memory usage. Loaded Objects now: 5321.
+Total: 74.677900 ms (FindLiveObjects: 1.129200 ms CreateObjectMapping: 0.770400 ms MarkObjects: 72.145500 ms  DeleteObjects: 0.631100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5321.
+Total: 67.780000 ms (FindLiveObjects: 0.628000 ms CreateObjectMapping: 0.604200 ms MarkObjects: 66.517000 ms  DeleteObjects: 0.029500 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.366800 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 24105.
+Total: 47.490700 ms (FindLiveObjects: 1.363200 ms CreateObjectMapping: 0.748800 ms MarkObjects: 45.278500 ms  DeleteObjects: 0.099500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24113.
+Total: 50.070300 ms (FindLiveObjects: 1.490500 ms CreateObjectMapping: 0.451500 ms MarkObjects: 48.104300 ms  DeleteObjects: 0.023500 ms)
+
+SUCCESS Chapter7-GalaFail1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.508000 ms
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 5321.
+Total: 79.261800 ms (FindLiveObjects: 0.930000 ms CreateObjectMapping: 0.710800 ms MarkObjects: 77.311900 ms  DeleteObjects: 0.308100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5321.
+Total: 33.730500 ms (FindLiveObjects: 0.667600 ms CreateObjectMapping: 0.536800 ms MarkObjects: 32.517100 ms  DeleteObjects: 0.008200 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.303600 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 24105.
+Total: 43.491300 ms (FindLiveObjects: 1.365900 ms CreateObjectMapping: 0.576700 ms MarkObjects: 41.428800 ms  DeleteObjects: 0.119400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24113.
+Total: 47.401500 ms (FindLiveObjects: 1.334300 ms CreateObjectMapping: 0.416000 ms MarkObjects: 45.623700 ms  DeleteObjects: 0.026900 ms)
+
+SUCCESS Chapter7-GalaFail1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.490300 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 5320.
+Total: 90.124800 ms (FindLiveObjects: 0.873900 ms CreateObjectMapping: 0.464500 ms MarkObjects: 88.534300 ms  DeleteObjects: 0.250600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5320.
+Total: 31.583100 ms (FindLiveObjects: 0.335300 ms CreateObjectMapping: 0.199800 ms MarkObjects: 31.037000 ms  DeleteObjects: 0.010100 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.396900 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24107.
+Total: 53.427700 ms (FindLiveObjects: 1.344200 ms CreateObjectMapping: 0.697700 ms MarkObjects: 51.288200 ms  DeleteObjects: 0.097000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24115.
+Total: 61.477700 ms (FindLiveObjects: 1.436600 ms CreateObjectMapping: 0.724400 ms MarkObjects: 59.283100 ms  DeleteObjects: 0.032900 ms)
+
+SUCCESS Chapter8-GalaSuc2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter8-Normal
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_UNLOCK_ALL_CHARACTER Remaning : 18
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter8-4-MilkyWay
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.364400 ms
+
+Unloading 218 unused Assets to reduce memory usage. Loaded Objects now: 5340.
+Total: 38.022500 ms (FindLiveObjects: 0.521400 ms CreateObjectMapping: 0.190300 ms MarkObjects: 37.066900 ms  DeleteObjects: 0.242900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5340.
+Total: 27.467900 ms (FindLiveObjects: 0.340100 ms CreateObjectMapping: 0.236400 ms MarkObjects: 26.880100 ms  DeleteObjects: 0.010500 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.940800 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24127.
+Total: 48.041900 ms (FindLiveObjects: 1.269100 ms CreateObjectMapping: 0.657500 ms MarkObjects: 46.016600 ms  DeleteObjects: 0.098200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24135.
+Total: 51.631700 ms (FindLiveObjects: 1.484700 ms CreateObjectMapping: 0.769800 ms MarkObjects: 49.352200 ms  DeleteObjects: 0.024100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.306200 ms
+
+Unloading 265 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 81.978800 ms (FindLiveObjects: 0.723000 ms CreateObjectMapping: 0.363700 ms MarkObjects: 80.652500 ms  DeleteObjects: 0.238700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5345.
+Total: 43.968300 ms (FindLiveObjects: 0.382500 ms CreateObjectMapping: 0.214900 ms MarkObjects: 43.360300 ms  DeleteObjects: 0.009800 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.467100 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24130.
+Total: 64.447400 ms (FindLiveObjects: 1.256500 ms CreateObjectMapping: 0.668700 ms MarkObjects: 62.419800 ms  DeleteObjects: 0.101800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24138.
+Total: 66.601700 ms (FindLiveObjects: 1.302000 ms CreateObjectMapping: 0.405700 ms MarkObjects: 64.868700 ms  DeleteObjects: 0.024700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.574100 ms
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 80.520700 ms (FindLiveObjects: 0.703000 ms CreateObjectMapping: 0.441500 ms MarkObjects: 79.168900 ms  DeleteObjects: 0.205800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 42.870800 ms (FindLiveObjects: 0.320100 ms CreateObjectMapping: 0.203300 ms MarkObjects: 42.338800 ms  DeleteObjects: 0.007900 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.657400 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24130.
+Total: 68.329500 ms (FindLiveObjects: 1.367600 ms CreateObjectMapping: 0.750100 ms MarkObjects: 66.110500 ms  DeleteObjects: 0.100600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24138.
+Total: 69.557700 ms (FindLiveObjects: 1.342500 ms CreateObjectMapping: 0.779700 ms MarkObjects: 67.396300 ms  DeleteObjects: 0.038400 ms)
+
+SUCCESS Chapter11-3a-Espresso
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter11-3-1a-MaxAll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_FINISH_LUA_BAILEYS_ARC Remaning : 17
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_SERVE_GALAHAD_WEREWOLF Remaning : 16
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.607500 ms
+
+Unloading 182 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 70.643100 ms (FindLiveObjects: 0.395600 ms CreateObjectMapping: 0.318100 ms MarkObjects: 69.668600 ms  DeleteObjects: 0.259700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 56.575100 ms (FindLiveObjects: 0.307300 ms CreateObjectMapping: 0.202500 ms MarkObjects: 56.055300 ms  DeleteObjects: 0.009400 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.484300 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24130.
+Total: 63.543600 ms (FindLiveObjects: 1.816500 ms CreateObjectMapping: 0.700400 ms MarkObjects: 60.915300 ms  DeleteObjects: 0.110700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24138.
+Total: 69.783700 ms (FindLiveObjects: 1.461100 ms CreateObjectMapping: 0.468600 ms MarkObjects: 67.828300 ms  DeleteObjects: 0.024300 ms)
+
+SUCCESS Chapter12-1a-Coffee
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter12-1a-Galahad
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.128200 ms
+
+Unloading 201 unused Assets to reduce memory usage. Loaded Objects now: 5344.
+Total: 96.104900 ms (FindLiveObjects: 0.717400 ms CreateObjectMapping: 0.432000 ms MarkObjects: 94.727800 ms  DeleteObjects: 0.226600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5344.
+Total: 40.428000 ms (FindLiveObjects: 0.281100 ms CreateObjectMapping: 0.168700 ms MarkObjects: 39.969100 ms  DeleteObjects: 0.008400 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.902100 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24130.
+Total: 62.231400 ms (FindLiveObjects: 1.225800 ms CreateObjectMapping: 0.601000 ms MarkObjects: 60.298800 ms  DeleteObjects: 0.105300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24138.
+Total: 64.377500 ms (FindLiveObjects: 1.483200 ms CreateObjectMapping: 0.477900 ms MarkObjects: 62.378300 ms  DeleteObjects: 0.037600 ms)
+
+Unlock Achievement : ACH_UNLOCK_ALL_CHARCTER_MAX Remaning : 15
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter13-GalaSafe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_FINISH_RACHEL_HENRY_ARC Remaning : 14
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.404200 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 44.719800 ms (FindLiveObjects: 0.311600 ms CreateObjectMapping: 0.179300 ms MarkObjects: 44.028200 ms  DeleteObjects: 0.199700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 47.119500 ms (FindLiveObjects: 0.298600 ms CreateObjectMapping: 0.174900 ms MarkObjects: 46.638100 ms  DeleteObjects: 0.007200 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.149900 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 24132.
+Total: 58.615400 ms (FindLiveObjects: 1.232900 ms CreateObjectMapping: 0.723300 ms MarkObjects: 56.596900 ms  DeleteObjects: 0.061600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24140.
+Total: 68.919800 ms (FindLiveObjects: 1.484000 ms CreateObjectMapping: 0.923300 ms MarkObjects: 66.485000 ms  DeleteObjects: 0.026900 ms)
+
+SUCCESS Chapter14-GalaHad
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-GalaHyde
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-FreyaGood
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-FreyaGood2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-MyrAqua
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-SheDid
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS Chapter14-End
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.727700 ms
+
+Unloading 244 unused Assets to reduce memory usage. Loaded Objects now: 5276.
+Total: 48.940200 ms (FindLiveObjects: 0.339700 ms CreateObjectMapping: 0.153700 ms MarkObjects: 48.186000 ms  DeleteObjects: 0.260000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5276.
+Total: 49.816200 ms (FindLiveObjects: 0.316100 ms CreateObjectMapping: 0.213300 ms MarkObjects: 49.276000 ms  DeleteObjects: 0.010100 ms)
+
+Unlock Achievement : ACH_UNLOCK_GALLERY Remaning : 13
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.590700 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 24151.
+Total: 69.961200 ms (FindLiveObjects: 1.443700 ms CreateObjectMapping: 0.811400 ms MarkObjects: 67.626800 ms  DeleteObjects: 0.078700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24151.
+Total: 73.870500 ms (FindLiveObjects: 1.262300 ms CreateObjectMapping: 0.756000 ms MarkObjects: 71.827400 ms  DeleteObjects: 0.024000 ms)
+
+SUCCESS ChapterAchievementGala
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_FINISH_GALA_HYDE_ARC Remaning : 12
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SUCCESS AfterCredits2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_NEIL_BARISTA Remaning : 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unlock Achievement : ACH_FINISH_ONCE Remaning : 10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.590100 ms
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 9326.
+Total: 81.633400 ms (FindLiveObjects: 0.823900 ms CreateObjectMapping: 0.426000 ms MarkObjects: 80.129200 ms  DeleteObjects: 0.253300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 9326.
+Total: 90.607600 ms (FindLiveObjects: 0.829400 ms CreateObjectMapping: 0.414900 ms MarkObjects: 89.352000 ms  DeleteObjects: 0.010200 ms)
+
+status : GAME_CLEARED
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.223600 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 5520.
+Total: 135.826900 ms (FindLiveObjects: 0.904200 ms CreateObjectMapping: 0.864000 ms MarkObjects: 133.793300 ms  DeleteObjects: 0.263900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5520.
+Total: 95.477300 ms (FindLiveObjects: 0.618600 ms CreateObjectMapping: 0.431500 ms MarkObjects: 94.414900 ms  DeleteObjects: 0.011300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.710600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 5534.
+Total: 84.000600 ms (FindLiveObjects: 0.743700 ms CreateObjectMapping: 0.447000 ms MarkObjects: 82.780300 ms  DeleteObjects: 0.028200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5534.
+Total: 41.515300 ms (FindLiveObjects: 0.287500 ms CreateObjectMapping: 0.179400 ms MarkObjects: 41.039100 ms  DeleteObjects: 0.008300 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.438500 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 24320.
+Total: 74.610900 ms (FindLiveObjects: 1.220000 ms CreateObjectMapping: 0.691900 ms MarkObjects: 72.588500 ms  DeleteObjects: 0.109900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24328.
+Total: 65.050100 ms (FindLiveObjects: 1.336700 ms CreateObjectMapping: 0.770400 ms MarkObjects: 62.916500 ms  DeleteObjects: 0.025700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.382900 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 9329.
+Total: 126.671800 ms (FindLiveObjects: 1.247900 ms CreateObjectMapping: 0.675100 ms MarkObjects: 124.604400 ms  DeleteObjects: 0.143100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 9329.
+Total: 55.592500 ms (FindLiveObjects: 0.502100 ms CreateObjectMapping: 0.259300 ms MarkObjects: 54.814800 ms  DeleteObjects: 0.015500 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.615200 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 8954.
+Total: 57.655200 ms (FindLiveObjects: 0.639900 ms CreateObjectMapping: 0.337600 ms MarkObjects: 56.590100 ms  DeleteObjects: 0.086700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 8954.
+Total: 72.902600 ms (FindLiveObjects: 0.661800 ms CreateObjectMapping: 0.306500 ms MarkObjects: 71.922600 ms  DeleteObjects: 0.010900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.710300 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 9333.
+Total: 65.574900 ms (FindLiveObjects: 0.562900 ms CreateObjectMapping: 0.271400 ms MarkObjects: 64.634700 ms  DeleteObjects: 0.105000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 9333.
+Total: 134.818300 ms (FindLiveObjects: 1.011300 ms CreateObjectMapping: 0.491800 ms MarkObjects: 133.289500 ms  DeleteObjects: 0.024100 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1394 -> priority: 1 
+  Thread -> id: 1ee4 -> priority: 1 
+  Thread -> id: 3aec -> priority: 1 
+  Thread -> id: 3088 -> priority: 1 
