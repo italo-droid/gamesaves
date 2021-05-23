@@ -1,0 +1,2874 @@
+{
+	"sessionId" : "italo-DESKTOP-R0EP6SU-2021.05.07-23.09.51",
+	"userId" : "italo-DESKTOP-R0EP6SU",
+	"buildInfo" : "34834.545",
+	"events" : [
+		{
+			"eventName" : "newPlayer"
+,			"attributes" : [
+			{
+				"name" : "steamID",
+				"value" : "76561197960267366"
+			}
+			,
+			{
+				"name" : "dlc01",
+				"value" : "true"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameStarted"
+		}
+,
+		{
+			"eventName" : "clientDevice"
+,			"attributes" : [
+			{
+				"name" : "availablePhysicalMemory",
+				"value" : "16"
+			}
+			,
+			{
+				"name" : "coresCount",
+				"value" : "4"
+			}
+			,
+			{
+				"name" : "cpuBrand",
+				"value" : "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+			}
+			,
+			{
+				"name" : "cpuInfo",
+				"value" : "591593"
+			}
+			,
+			{
+				"name" : "cpuVendor",
+				"value" : "GenuineIntel"
+			}
+			,
+			{
+				"name" : "deviceName",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "deviceType",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "gpuBrand",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuVendorId",
+				"value" : "32902"
+			}
+			,
+			{
+				"name" : "gpuDeviceDescription",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuProviderName",
+				"value" : "Intel Corporation"
+			}
+			,
+			{
+				"name" : "gpuInternalDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuUserDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuDriverDate",
+				"value" : "9-5-2020"
+			}
+			,
+			{
+				"name" : "operatingSystem",
+				"value" : "WINDOWS"
+			}
+			,
+			{
+				"name" : "operatingSystemVersion",
+				"value" : "10.0.19042.1.256.64bit"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "graphicsApi"
+,			"attributes" : [
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1536 Y=864"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "125"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "94"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "125"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "94"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "125"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "120"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "125"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "options"
+,			"attributes" : [
+			{
+				"name" : "action",
+				"value" : "gamepadSchemeChanged"
+			}
+			,
+			{
+				"name" : "option",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1920 Y=1080"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "91"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "110150.195312"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-10520.185547"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-146.873779"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "110714.414062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-11294.332031"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3400.08252"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "111359.171875"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-9881.59082"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3573.131836"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "111400.414062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-10940.700195"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3400.417725"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "110968.664062"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-9976.611328"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3427.525146"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "111152.0625"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-9465.474609"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3427.70166"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "111006.523438"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-9245.15332"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3400.08252"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "7"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "110132.492188"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-36344.671875"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "-973.96228"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "8"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "8"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "105904.773438"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-30606.646484"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "1575.319458"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "9"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "9"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "02_01"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : ""
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "9"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameEnded"
+		}
+	]
+}

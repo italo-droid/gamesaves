@@ -1,0 +1,954 @@
+{
+	"sessionId" : "italo-DESKTOP-R0EP6SU-2021.05.07-23.02.34",
+	"userId" : "italo-DESKTOP-R0EP6SU",
+	"buildInfo" : "34834.545",
+	"events" : [
+		{
+			"eventName" : "newPlayer"
+,			"attributes" : [
+			{
+				"name" : "steamID",
+				"value" : "76561197960267366"
+			}
+			,
+			{
+				"name" : "dlc01",
+				"value" : "true"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameStarted"
+		}
+,
+		{
+			"eventName" : "clientDevice"
+,			"attributes" : [
+			{
+				"name" : "availablePhysicalMemory",
+				"value" : "16"
+			}
+			,
+			{
+				"name" : "coresCount",
+				"value" : "4"
+			}
+			,
+			{
+				"name" : "cpuBrand",
+				"value" : "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+			}
+			,
+			{
+				"name" : "cpuInfo",
+				"value" : "591593"
+			}
+			,
+			{
+				"name" : "cpuVendor",
+				"value" : "GenuineIntel"
+			}
+			,
+			{
+				"name" : "deviceName",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "deviceType",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "gpuBrand",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuVendorId",
+				"value" : "32902"
+			}
+			,
+			{
+				"name" : "gpuDeviceDescription",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuProviderName",
+				"value" : "Intel Corporation"
+			}
+			,
+			{
+				"name" : "gpuInternalDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuUserDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuDriverDate",
+				"value" : "9-5-2020"
+			}
+			,
+			{
+				"name" : "operatingSystem",
+				"value" : "WINDOWS"
+			}
+			,
+			{
+				"name" : "operatingSystemVersion",
+				"value" : "10.0.19042.1.256.64bit"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "graphicsApi"
+,			"attributes" : [
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "settings"
+,			"attributes" : [
+			{
+				"name" : "languageSetting",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "subtitles",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "toggleCrouch",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "showUI",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "fullscreen",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "resolution",
+				"value" : "X=1536 Y=864"
+			}
+			,
+			{
+				"name" : "resolutionScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "viewDistance",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "antiAliasing",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "postProcessQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "shadowQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "texturesQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "effectsQuality",
+				"value" : "2"
+			}
+			,
+			{
+				"name" : "materialQuality",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "brightness",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "blur",
+				"value" : "3"
+			}
+			,
+			{
+				"name" : "goreEffect",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "vsync",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "rtx",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fpsLimit",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fov",
+				"value" : "85"
+			}
+			,
+			{
+				"name" : "masterVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "musicVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "soundEffectsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dialogsVolume",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "mouseSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "controlSchemes",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "controllerSensitivity",
+				"value" : "50"
+			}
+			,
+			{
+				"name" : "invertLook",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "vibrations",
+				"value" : "1"
+			}
+			,
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			,
+			{
+				"name" : "cpuBenchmarkResults",
+				"value" : "107.160202"
+			}
+			,
+			{
+				"name" : "gpuBenchmarkResults",
+				"value" : "88.328995"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpening",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXUpscaling",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "fidelityFXSharpeningScale",
+				"value" : "100"
+			}
+			,
+			{
+				"name" : "dlss",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "dlssMode",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 2"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_ 2"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 4"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_4"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 5"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_5"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 6"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_6"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 7"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_7"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 8"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_8"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-27509.974609"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-64061.039062"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3005.073242"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 9"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_9"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 10"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_10"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "1"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-31677.566406"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-61337.160156"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "2016.16748"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 11"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_11"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 12"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_12"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 13"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_13"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "checkpointReached"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 14"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_14"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "2"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-9865.525391"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-55940.554688"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3402.000244"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "3"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-8311.701172"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-56412.082031"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3584.769775"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "4"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-8619.22168"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54120.785156"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3404.399902"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "5"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "playerDefeated"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "deathPositionX",
+				"value" : "-8619.083008"
+			}
+			,
+			{
+				"name" : "deathPositionY",
+				"value" : "-54253.523438"
+			}
+			,
+			{
+				"name" : "deathPositionZ",
+				"value" : "3404.154785"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "00_01"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "Tutorial"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "Checkpoint 14"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "CP_14"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "6"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameEnded"
+		}
+	]
+}

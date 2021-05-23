@@ -1,0 +1,189 @@
+{
+	"sessionId" : "italo-DESKTOP-R0EP6SU-2021.04.27-19.17.11",
+	"userId" : "italo-DESKTOP-R0EP6SU",
+	"buildInfo" : "34834.545",
+	"events" : [
+		{
+			"eventName" : "newPlayer"
+,			"attributes" : [
+			{
+				"name" : "steamID",
+				"value" : "76561197960267366"
+			}
+			,
+			{
+				"name" : "dlc01",
+				"value" : "true"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameStarted"
+		}
+,
+		{
+			"eventName" : "clientDevice"
+,			"attributes" : [
+			{
+				"name" : "availablePhysicalMemory",
+				"value" : "16"
+			}
+			,
+			{
+				"name" : "coresCount",
+				"value" : "4"
+			}
+			,
+			{
+				"name" : "cpuBrand",
+				"value" : "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+			}
+			,
+			{
+				"name" : "cpuInfo",
+				"value" : "591593"
+			}
+			,
+			{
+				"name" : "cpuVendor",
+				"value" : "GenuineIntel"
+			}
+			,
+			{
+				"name" : "deviceName",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "deviceType",
+				"value" : "PC"
+			}
+			,
+			{
+				"name" : "gpuBrand",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuVendorId",
+				"value" : "32902"
+			}
+			,
+			{
+				"name" : "gpuDeviceDescription",
+				"value" : "Intel(R) HD Graphics 630"
+			}
+			,
+			{
+				"name" : "gpuProviderName",
+				"value" : "Intel Corporation"
+			}
+			,
+			{
+				"name" : "gpuInternalDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuUserDriverVersion",
+				"value" : "27.20.100.8681"
+			}
+			,
+			{
+				"name" : "gpuDriverDate",
+				"value" : "9-5-2020"
+			}
+			,
+			{
+				"name" : "operatingSystem",
+				"value" : "WINDOWS"
+			}
+			,
+			{
+				"name" : "operatingSystemVersion",
+				"value" : "10.0.19042.1.256.64bit"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "graphicsApi"
+,			"attributes" : [
+			{
+				"name" : "directx12",
+				"value" : "false"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionStarted"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "01_03_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "01_03_bis"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "missionFailed"
+,			"attributes" : [
+			{
+				"name" : "missionName",
+				"value" : "01_03_BIS"
+			}
+			,
+			{
+				"name" : "missionID",
+				"value" : "01_03_bis"
+			}
+			,
+			{
+				"name" : "checkpointID",
+				"value" : "unknown"
+			}
+			,
+			{
+				"name" : "checkpointName",
+				"value" : "unknown"
+			}
+			,
+			{
+				"name" : "totalDeathsDuringMission",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTime",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "levelTimeWithDilatation",
+				"value" : "0"
+			}
+			,
+			{
+				"name" : "gameMode",
+				"value" : "normal"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "gameEnded"
+		}
+	]
+}

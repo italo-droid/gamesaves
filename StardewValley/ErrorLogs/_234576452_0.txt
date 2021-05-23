@@ -1,0 +1,22 @@
+Message: There is an error in XML document (1, 1611372).
+InnerException: System.InvalidOperationException: The specified type was not recognized: name='ManorHouse', namespace='', at <GameLocation xmlns=''>.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderSaveGame.Read107_GameLocation(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderSaveGame.Read132_SaveGame(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderSaveGame.Read133_SaveGame()
+Stack Trace:    at StardewValley.SaveGame.<getLoadEnumerator>d__56.MoveNext() in C:\Users\gitlab-runner\gitlab-runner\builds\5c0f9387\1\chucklefish\stardewvalley\Farmer\Farmer\SaveGame.cs:line 1117
+   at StardewValley.Game1.UpdateTitleScreen(GameTime time) in C:\Users\gitlab-runner\gitlab-runner\builds\5c0f9387\1\chucklefish\stardewvalley\Farmer\Farmer\Game1.cs:line 3241
+   at StardewValley.Game1._update(GameTime gameTime) in C:\Users\gitlab-runner\gitlab-runner\builds\5c0f9387\1\chucklefish\stardewvalley\Farmer\Farmer\Game1.cs:line 2441
+   at StardewValley.Game1.Update(GameTime gameTime) in C:\Users\gitlab-runner\gitlab-runner\builds\5c0f9387\1\chucklefish\stardewvalley\Farmer\Farmer\Game1.cs:line 1860
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at StardewValley.Program.Main(String[] args) in C:\Users\gitlab-runner\gitlab-runner\builds\5c0f9387\1\chucklefish\stardewvalley\Farmer\Farmer\Program.cs:line 146

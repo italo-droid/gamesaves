@@ -1,0 +1,22 @@
+Message: A previous Draw call threw an unhandled exception. See InnerException for details.
+InnerException: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at xTile.Display.XnaDisplayDevice.DrawTile(Tile tile, Location location, Single layerDepth) in C:\Users\Barone_\Documents\Visual Studio 2010\Projects\tide-83511\TileMapEditor\xTile\Display\XnaDisplayDevice.cs:line 156
+   at xTile.Layers.Layer.DrawNormal(IDisplayDevice displayDevice, Rectangle mapViewport, Location displayOffset, Int32 pixelZoom) in C:\Users\Barone_\Documents\Visual Studio 2010\Projects\tide-83511\TileMapEditor\xTile\Layers\Layer.cs:line 445
+   at xTile.Layers.Layer.Draw(IDisplayDevice displayDevice, Rectangle mapViewport, Location displayOffset, Boolean wrapAround, Int32 pixelZoom) in C:\Users\Barone_\Documents\Visual Studio 2010\Projects\tide-83511\TileMapEditor\xTile\Layers\Layer.cs:line 238
+   at StardewValley.Game1._draw(GameTime gameTime, RenderTarget2D target_screen) in C:\GitlabRunner\builds\Gq5qA5P4\1\ConcernedApe\stardewvalley\Farmer\Farmer\Game1.cs:line 15581
+   at StardewValley.Game1.Draw(GameTime gameTime) in C:\GitlabRunner\builds\Gq5qA5P4\1\ConcernedApe\stardewvalley\Farmer\Farmer\Game1.cs:line 15239
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Paint(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameWindow.OnPaint()
+   at Microsoft.Xna.Framework.WindowsGameWindow.mainForm_Paint(Object sender, PaintEventArgs e)
+Stack Trace:    at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at StardewValley.Program.Main(String[] args) in C:\GitlabRunner\builds\Gq5qA5P4\1\ConcernedApe\stardewvalley\Farmer\Farmer\Program.cs:line 152
